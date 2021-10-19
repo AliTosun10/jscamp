@@ -13,7 +13,6 @@ console.log(dolarDun)
 
 const euroDun = 11.2
 //euroDun = 11
-
 console.log(euroDun)
 
 //array
